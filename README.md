@@ -14,4 +14,4 @@ for linux/mac
 for windows
 `go build > snake.exe main.go`
 
-then run `./snake` (linux/mac) or `./snake.exe` (windows)
+then run `./snake` (linux/mac) or `.\snake.exe` (windows)
