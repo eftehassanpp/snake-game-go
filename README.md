@@ -7,6 +7,11 @@ a simple terminal snake game written in go
 `go run main.go`
 
 or you can build
+for linux/mac
+
 `go build > snake main.go`
 
-then run `./snake`
+for windows
+`go build > snake.exe main.go`
+
+then run `./snake` (linux/mac) or `./snake.exe` (windows)
